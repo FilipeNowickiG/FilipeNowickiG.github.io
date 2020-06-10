@@ -5,13 +5,13 @@
  * Port of http://webglsamples.org/blob/blob.html
  */
 
-import {
-	BufferAttribute,
-	BufferGeometry,
-	Color,
-	ImmediateRenderObject,
-	NoColors
-} from "./three.module.js";
+// import {
+// 	BufferAttribute,
+// 	BufferGeometry,
+// 	Color,
+// 	ImmediateRenderObject,
+// 	NoColors
+// } from "./three.module.js";
 
 var MarchingCubes = function ( resolution, material, enableUvs, enableColors ) {	
 
