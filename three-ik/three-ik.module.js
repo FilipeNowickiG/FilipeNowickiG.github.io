@@ -1,4 +1,4 @@
-import { AxesHelper, Color, ConeBufferGeometry, Math as Math$1, Matrix4, Mesh, MeshBasicMaterial, Object3D, Vector3 } from '../three/three.js';
+import { AxesHelper, Color, ConeBufferGeometry, Math as Math$1, Matrix4, Mesh, MeshBasicMaterial, Object3D, Vector3 } from 'https://filipenowickig.github.io//three/three.module.js';
 
 var t1 = new Vector3();
 var t2 = new Vector3();
